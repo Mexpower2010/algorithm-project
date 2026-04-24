@@ -8,6 +8,7 @@ public class obi_1 {
         int maior = acharMaior(v);
         long fim = System.nanoTime();
         System.out.println("TEMPO : (ns) "+ (fim - inicio));
+        System.out.println(maior);
     }
     public static int acharMaior(int[] v) {
         int maior = Integer.MIN_VALUE;

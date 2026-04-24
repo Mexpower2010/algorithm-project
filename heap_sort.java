@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class heap_sort {
     public static void main(String[] args) {
         int[] vetor = new int[10];
