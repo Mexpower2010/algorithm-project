@@ -1,4 +1,3 @@
-package aula24_04;
 import java.util.Scanner;
 public class freqLetras {
     final static public Scanner S = new Scanner(System.in);
@@ -14,8 +13,8 @@ public class freqLetras {
 
             int maior = Integer.MIN_VALUE;
 
-            for (int j = 0; j < tex.length; j++) {
-                if((int)tex[i])
+            for (int j = 0; j < tex.length; j++) { 
+                if((int)tex[i]!=0);
                 freq[(int)tex[i]]++;
 
                 if (freq[(int)tex[i]]>maior) {

@@ -19,9 +19,9 @@ public class frase {
                     cont++;
                 }
             }
-            if (cont==25) {
+            if (cont==26) {
                 System.out.println("frase completa");
-            }else if (cont>=12 ) {
+            }else if (cont>=13 ) {
                 System.out.println("frase quase completa");
             }else{ 
                 System.out.println("frase mal elaborada");

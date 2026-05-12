@@ -1,4 +1,3 @@
-package aula24_04;
 import java.util.Scanner;
 public class frequencia {
     public final static Scanner S = new Scanner(System.in);
