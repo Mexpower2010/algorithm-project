@@ -8,9 +8,9 @@ public class cifraCesariana {
             char[] c = s.next().toCharArray();
             int k = s.nextInt();
             for (int j = 0; j < c.length; j++) {
-                c[j] = (char)(((((int)c[j] - 65)+k)%26)+65);
+                c[j] = (char)(((((int)c[j] - 65)-k+26)%26)+65);
             }
-            System.out.println(c.toString());
-        }
+            System.out.println(new String(c));        
     }
+}
 }

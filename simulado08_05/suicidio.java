@@ -7,12 +7,11 @@ public class suicidio{
         for (int index = 0; index < n; index++) {
             int qtdCabloco = S.nextInt();
             int pulo = S.nextInt();
-            int[] cablocos = new int[qtdCabloco];
-            int sortudo;
-            for (int i = 0; i < cablocos.length; i++) {
-                
+            int ultimoMolestado = 0;
+            for (int i = 1; i <= qtdCabloco; i++) {
+                ultimoMolestado = (ultimoMolestado+pulo)%i;
             }
-            //System.out.println("Case 1: "+sortudo);
+            System.out.println("Case "+(index+1)+": "+(ultimoMolestado+1));
         }
     }
 }
