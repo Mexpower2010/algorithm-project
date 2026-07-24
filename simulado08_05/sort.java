@@ -1,6 +1,4 @@
 package simulado08_05;
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Scanner;
 public class sort {
     public static Scanner s = new Scanner(System.in);

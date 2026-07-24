@@ -1,3 +1,4 @@
+package Maratona_UTFPR;
 import java.util.*;
 public class H {
     public static void main(String[] args) {
@@ -13,9 +14,7 @@ public class H {
         }
         int [] vpresenca = new int[maior];
         for (int i = 0; i < v.length; i++) {
-            if () {
-                
-            }
+           
         }
         
     }
