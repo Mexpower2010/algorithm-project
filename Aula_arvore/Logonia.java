@@ -1,4 +1,3 @@
-package Aula_arvore;
 import java.util.LinkedList;
 import java.util.Queue;
 
