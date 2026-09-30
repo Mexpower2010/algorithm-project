@@ -1,4 +1,4 @@
-package lista4;
+package exercicios_gerais.lista4;
 import java.util.*;
 public class copa {
     public static Scanner S = new Scanner(System.in);

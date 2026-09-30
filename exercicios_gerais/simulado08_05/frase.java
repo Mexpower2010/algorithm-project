@@ -1,4 +1,4 @@
-package simulado08_05;
+package exercicios_gerais.simulado08_05;
 import java.util.Scanner;
 public class frase {
     public static Scanner s = new Scanner(System.in);

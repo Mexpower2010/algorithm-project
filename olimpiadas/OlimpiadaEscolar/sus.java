@@ -1,3 +1,4 @@
+package olimpiadas.OlimpiadaEscolar;
 import java.util.Scanner;
 import java.time.LocalTime;
 public class sus {

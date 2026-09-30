@@ -1,4 +1,4 @@
-package BuscaBin;
+package Aula_buscaBin;
 import java.util.Scanner;
 public class casas {
     final static public Scanner S = new Scanner(System.in);

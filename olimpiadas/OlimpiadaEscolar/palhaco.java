@@ -1,3 +1,4 @@
+package olimpiadas.OlimpiadaEscolar;
 import java.util.Scanner;
 public class palhaco {
     final static Scanner S = new Scanner(System.in);
