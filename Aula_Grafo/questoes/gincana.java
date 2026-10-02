@@ -1,4 +1,5 @@
 package questoes;
+//20 + 20 + 7 ai e mt facil professora e six seven
 import java.util.ArrayList;
 import java.util.Scanner;
 public class gincana {
